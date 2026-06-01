@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+#### Dependencies
+- Updated NuGet package dependencies to their latest compatible versions.
+- Refreshed package references to improve compatibility, security, and maintainability.
+
 ## [1.1.1] - 2026-03-10
 
 ### Fixed
